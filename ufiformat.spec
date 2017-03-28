@@ -1,13 +1,13 @@
 Summary:	Low-level (physical) formatting tool for USB-FDD
 Summary(pl.UTF-8):	Narzędzie do formatowania niskopoziomowego dla stacji FDD podłączanych przez USB
 Name:		ufiformat
-Version:	0.9.4
+Version:	0.9.9
 Release:	1
 License:	GPL v2+
 Group:		Applications/System
 #Source0Download: http://www.geocities.jp/tedi_world/format_usbfdd_e.html
 Source0:	http://www.geocities.jp/tedi_world/%{name}-%{version}.tar.gz
-# Source0-md5:	960994e7dbf592deb7a4fd3024d17a68
+# Source0-md5:	18e41a189b81b1599a38ce8640698b7f
 URL:		http://www.geocities.jp/tedi_world/format_usbfdd_e.html
 # libext2fs
 BuildRequires:	e2fsprogs-devel
